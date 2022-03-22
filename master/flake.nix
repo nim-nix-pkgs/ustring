@@ -9,7 +9,7 @@
   
   inputs.src-ustring-master.flake = false;
   inputs.src-ustring-master.owner = "rokups";
-  inputs.src-ustring-master.ref   = "refs/heads/master";
+  inputs.src-ustring-master.ref   = "master";
   inputs.src-ustring-master.repo  = "nim-ustring";
   inputs.src-ustring-master.type  = "github";
   

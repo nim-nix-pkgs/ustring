@@ -9,7 +9,7 @@
   
   inputs.src-ustring-0_2_2.flake = false;
   inputs.src-ustring-0_2_2.owner = "rokups";
-  inputs.src-ustring-0_2_2.ref   = "refs/tags/0.2.2";
+  inputs.src-ustring-0_2_2.ref   = "0_2_2";
   inputs.src-ustring-0_2_2.repo  = "nim-ustring";
   inputs.src-ustring-0_2_2.type  = "github";
   
